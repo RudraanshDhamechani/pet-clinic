@@ -1,0 +1,6 @@
+{
+  "name": "Pawsitive Care Veterinary Clinic",
+  "description": "Pet Clinic Vaccination Log & Trend Analysis System with persistent SQLite tracking, clinical due-date alerts, interactive analytics, and downloadable Python/Streamlit deliverables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
